@@ -1,4 +1,5 @@
 # odin-recipes
+![Recipe Book](https://images-na.ssl-images-amazon.com/images/I/71p-uMsPA4L.jpg)
 Exposing my basic knowledge of HTML
 
 Hello, 
