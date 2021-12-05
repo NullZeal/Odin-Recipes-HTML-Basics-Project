@@ -5,4 +5,8 @@ Hello,
 
 In this project, I will create a very basic website using some HTML basic knowledge.
 
-There will be a file structure for the project, html structure for pages and content on the pages, using html tags.
+Included is : 
+
+A file structure for the project (pages will linked with anchor using relative links)
+Html structure for pages
+Content on the pages (images, lists)
