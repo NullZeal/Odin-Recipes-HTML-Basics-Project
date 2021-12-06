@@ -1,6 +1,6 @@
 # odin-recipes
 
-https://nullzeal.github.io/odin-recipes/
+https://nullzeal.github.io/Odin-Recipes-HTML-Basics-Project/
 
 ![Recipe Book](https://images-na.ssl-images-amazon.com/images/I/71p-uMsPA4L.jpg)
 Exposing my basic knowledge of HTML
