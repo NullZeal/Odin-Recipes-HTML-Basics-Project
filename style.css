@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(255, 200, 0.5, 0.5);
+}
+
+
+.recipes {
+    background-color: rgba(192, 109, 0, 0.3);
+    border-radius: 10%;
+
+}
+
+h1, h2, p, li{
+    color:rgba(51, 40, 0, 0.8);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+.img-cookie{
+    width: 50%;
+    height: auto;
+}
+
+.main-menu {
+    font-size: 150%;
+    font-weight: bold;
+    text-align: center;
+}
+
+
