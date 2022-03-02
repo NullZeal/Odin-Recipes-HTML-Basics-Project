@@ -1,13 +1,9 @@
 # odin-recipes
 
-https://nullzeal.github.io/Odin-Recipes-HTML-Basics-Project/
-
 ![Recipe Book](https://images-na.ssl-images-amazon.com/images/I/71p-uMsPA4L.jpg)
 Exposing my basic knowledge of HTML
 
-Hello, 
-
-In this project, I will create a very basic website using some HTML basic knowledge.
+In [this project](https://nullzeal.github.io/Odin-Recipes-HTML-Basics-Project/), I created a very basic website using some HTML and CSS basic knowledge.
 
 ##Included : 
 
