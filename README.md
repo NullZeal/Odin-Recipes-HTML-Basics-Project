@@ -1,6 +1,6 @@
 # Odin-Recipes
 
-![Recipe Book](https://images-na.ssl-images-amazon.com/images/I/71p-uMsPA4L.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/71p-uMsPA4L.jpg" alt="drawing" width="200" align="right" />
 Simple Website Project.
 
 In [this project](https://nullzeal.github.io/Odin-Recipes-HTML-Basics-Project/), I created a very basic website using some HTML and CSS basic knowledge.
